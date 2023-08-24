@@ -1,8 +1,8 @@
 # extractLyrics
-Extract lyrics from google page.
+Extract lyrics from online page(now works with "google, uta-net, j-lyrics, kkbox").
 
 # Usage
-1.Copy source code (under ```<div jsname="WbKHeb">```) from page.<br>
+1.Copy source code (under ```<div jsname="WbKHeb">``` or something) from page.<br>
 2.Paste it in input.txt(This is because the bat has a short input length limit.).<br>
 3.Execute main.py.<br>
 
