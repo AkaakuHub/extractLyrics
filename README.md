@@ -1,3 +1,8 @@
+# Important/重要！
+**This is the old local version. Please use the extended function version of browser.<br>
+これは古いローカルバージョンです。よろしければブラウザの拡張機能版をお使いください。**<br>
+https://github.com/AkaakuHub/LyricsExtractor
+
 # extractLyrics
 Extract lyrics from online page(now works with "google, uta-net, j-lyrics, kkbox").
 
